@@ -64,3 +64,8 @@ INICIO funcion cargarArchivo(ruta_archivo)
     Cerrar archivo
     Retornar vector principal
 FIN
+
+## 6. Observaciones Relevantes del Desarrollo
+Ordenamiento Eficiente: Se integró el uso de funciones Lambda dentro del método std::sort() de la librería <algorithm>. Esto permitió ordenar vectores de estructuras complejas basándose en un atributo específico (como el porcentaje de reprobación) sin necesidad de escribir algoritmos de ordenamiento manuales extensos.
+
+Robustez en la Compilación: El proyecto demostró que la compilación directa en terminal mediante comandos (ej. g++ main.cpp -o main.exe) es fundamental para evitar conflictos con archivos temporales o restricciones de seguridad de IDEs de terceros.
