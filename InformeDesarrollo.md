@@ -31,17 +31,17 @@ Durante el desarrollo, la lógica de programación y el diseño de los algoritmo
 ![Captura del menú principal en ejecución](imagenes/menu.PNG)
 
 ### 3.2. Carga de Archivos (.lfp)
-![Captura de la carga exitosa de archivos](RUTA_DE_TU_IMAGEN_DE_CARGA_AQUI)
+![Captura de la carga exitosa de archivos](imagenes/archivos.PNG)
 
 ### 3.3. Reportes Generados (HTML)
 **Reporte 1: Estadísticas de Cursos**
-![Captura del Reporte 1](RUTA_DE_TU_IMAGEN_REPORTE1_AQUI)
+![Captura del Reporte 1](imagenes/reporte1.PNG)
 
 **Reporte 3: Top 10 Estudiantes**
-![Captura del Reporte 3](RUTA_DE_TU_IMAGEN_REPORTE3_AQUI)
+![Captura del Reporte 3](imagenes/reporte3.PNG)
 
 **Reporte 5: Análisis por Carrera**
-![Captura del Reporte 5](RUTA_DE_TU_IMAGEN_REPORTE5_AQUI)
+![Captura del Reporte 5](imagenes/reporte5.PNG)
 
 ---
 
