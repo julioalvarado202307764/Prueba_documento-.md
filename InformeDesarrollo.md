@@ -25,8 +25,6 @@ Durante el desarrollo, la lógica de programación y el diseño de los algoritmo
 
 ## 3. Evidencia de Ejecución
 
-*(Nota: Reemplaza las rutas entre paréntesis con el nombre de tus imágenes. Ejemplo: `![Menú](imagenes/menu.png)`)*
-
 ### 3.1. Menú Principal en Consola
 ![Captura del menú principal en ejecución](imagenes/menu.PNG)
 
