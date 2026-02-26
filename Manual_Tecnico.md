@@ -40,6 +40,11 @@ Adicionalmente, se implementaron estructuras auxiliares (`EstudiantePromedio`, `
 ## 5. Lógica de Lectura y Procesamiento de Archivos (Pseudocódigo)
 La lectura de los archivos `.lfp` sigue este flujo estructurado para garantizar que no se procesen datos corruptos:
 
+## 6. Observaciones Relevantes del Desarrollo
+Ordenamiento Eficiente: Se integró el uso de funciones Lambda dentro del método std::sort() de la librería <algorithm>. Esto permitió ordenar vectores de estructuras complejas basándose en un atributo específico (como el porcentaje de reprobación) sin necesidad de escribir algoritmos de ordenamiento manuales extensos.
+
+Robustez en la Compilación: El proyecto demostró que la compilación directa en terminal mediante comandos (ej. g++ main.cpp -o main.exe) es fundamental para evitar conflictos con archivos temporales o restricciones de seguridad de IDEs de terceros.
+
 ```text
 INICIO funcion cargarArchivo(ruta_archivo)
     Intentar abrir el archivo(ruta_archivo)
@@ -64,8 +69,3 @@ INICIO funcion cargarArchivo(ruta_archivo)
     Cerrar archivo
     Retornar vector principal
 FIN
-
-## 6. Observaciones Relevantes del Desarrollo
-Ordenamiento Eficiente: Se integró el uso de funciones Lambda dentro del método std::sort() de la librería <algorithm>. Esto permitió ordenar vectores de estructuras complejas basándose en un atributo específico (como el porcentaje de reprobación) sin necesidad de escribir algoritmos de ordenamiento manuales extensos.
-
-Robustez en la Compilación: El proyecto demostró que la compilación directa en terminal mediante comandos (ej. g++ main.cpp -o main.exe) es fundamental para evitar conflictos con archivos temporales o restricciones de seguridad de IDEs de terceros.
