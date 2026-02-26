@@ -40,7 +40,7 @@ Al seleccionar una opción, el sistema procesará los datos en silencio y crear�
 
 ### Paso 4: Visualizar los Resultados
 Ve a la carpeta de tu proyecto desde el explorador de archivos de tu computadora. Verás que se han creado archivos web (HTML) con los nombres de los reportes. Haz doble clic en cualquiera de ellos para abrirlo en tu navegador web (Chrome, Edge, Firefox, etc.) y visualizar las tablas generadas.
-![Vista de Reporte HTML](imagenes/vista_html.png)
+![Vista de Reporte HTML](imagenes/vista_html.PNG)
 
 ### Paso 5: Salir del Sistema
 Para cerrar el programa de forma segura, simplemente selecciona la opción **9** en el menú principal y presiona Enter.
